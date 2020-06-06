@@ -14,4 +14,5 @@ According to Open AI, the best average reward for taxi-v2 problem should be grea
 | 2.   | 1. SARSAMAX<br> 2. alpha = 0.01<br> 3. gamma = 1<br> 4. epsilon = 1/num_episodes<br> 5. epsilon_greedy_policy<br>          | -27.19              |
 | 3.   | 1. SARSAMAX<br> 2. alpha = 0.01<br> 3. gamma = 0.1<br> 4. epsilon = 1/num_episodes<br> 5. epsilon_greedy_policy<br>        | -12.51              |
 | 4.   | 1. Expected SARSA<br> 2. alpha = 0.04<br> 3. gamma = 0.8<br> 4. epsilon = 1/num_episodes<br> 5. epsilon_greedy_policy <br> | 9.2                 |
+| 5.   | 1. SARSA<br> 2. alpha = 0.04<br> 3. gamma = 0.8<br> 4. epsilon = 1/num_episodes<br> 5. epsilon_greedy_policy <br> | 9.38 (fastest convergence)                 |
 
